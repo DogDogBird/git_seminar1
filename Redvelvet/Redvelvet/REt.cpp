@@ -3,9 +3,9 @@ using namespace std;
 
 int main()
 {
-	for (int i = 0; i < 5; i++)
+	for (int i = 0; i < 6; i++)
 	{
-		cout << "$$$$$" << endl;
+		cout << "$$$$" << endl;
 	}
 
 	return 0;
