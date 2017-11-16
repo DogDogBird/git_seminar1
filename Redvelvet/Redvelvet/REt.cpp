@@ -7,6 +7,7 @@ int main()
 	{
 		cout << "$$$$$" << endl;
 	}
+	cout << "Changed first";
 
 	return 0;
 }
